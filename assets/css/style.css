@@ -16,6 +16,13 @@ body {
   font-weight: bold;
   font-size: 17px;
   color:#373A3C;
+}
+
+  .nav-item a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    color: white;
 
 }
 .texto h2{
