@@ -1,15 +1,49 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
-  .texto h2{
-    font-family: "Open Sans", sans-serif;
-      font-weight: 700;
-      font-style: normal;
-      font-size: 40px;
-      color: #707070
-  }
 
-  .bgcolor {
-      background-color: #E83E8C;
-  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+body {
+  background-color: #FFF;
+}
+
+.nav-item {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  color:#373A3C;
+
+}
+.texto h2{
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 60px;
+  color: #707070;
+}
+
+.bgcolor {
+  background-color: #E83E8C;
+}
+
+.pagos {
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+}
+
+.card {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  color: #373A3C;
+}
+
+.bg_color {
+  background-color: #17A2B8;
+
+}
   
